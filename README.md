@@ -15,6 +15,8 @@
 <td><img src="http://s10.picofile.com/file/8407163692/pic2.png"></td>
 <td><img src="http://s10.picofile.com/file/8407163718/pic3.png"></td>
 </tr>
+  </table>
+  <table>
 <tr>
   <td>
 # سایر دوره های آموزشی 
@@ -23,7 +25,7 @@
       <a href="https://faranesh.com/author/samansepahvand">https://faranesh.com/author/samansepahvand</A>
   </td>
       
-        <td>
+    
  سایت من
   </td>
     <td>
@@ -31,6 +33,6 @@
   </td>
   
 </tr>
-
+</table>
 <br> 
 </p>
