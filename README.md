@@ -1,6 +1,7 @@
 # Sample Retrofit RxAndroid Realm 
 
 
+<dive="left">
 در این مثال از دوره  
 <a href="https://faranesh.com/programming/19225-complete-tutorial-on-working-with-realm-database-in-android" >
 کار با پایگاه داده Realm در اندروید
@@ -19,4 +20,4 @@
 <a href="https://faranesh.com/author/samansepahvand">https://faranesh.com/author/samansepahvand</A>
 <BR>
   سایت من :<a href="http://samansepahvand.ir/">http://samansepahvand.ir/</A>
-
+</div>
