@@ -16,23 +16,19 @@
 <td><img src="http://s10.picofile.com/file/8407163718/pic3.png"></td>
 </tr>
   </table>
-  <table>
-<tr>
-  <td>
-# سایر دوره های آموزشی 
-  </td>
-    <td>
-      <a href="https://faranesh.com/author/samansepahvand">https://faranesh.com/author/samansepahvand</A>
-  </td>
-      
-    
- سایت من
-  </td>
-    <td>
-    <a href="http://samansepahvand.ir/">http://samansepahvand.ir/</A>
-  </td>
   
-</tr>
-</table>
-<br> 
+  <br>
+    <br>
+      <br>
+      
+# سایر دوره های آموزشی 
+ 
+      <a href="https://faranesh.com/author/samansepahvand">https://faranesh.com/author/samansepahvand</A>
+       
+    <br> 
+ سایت من
+ 
+    <a href="http://samansepahvand.ir/">http://samansepahvand.ir/</A>
+ 
+
 </p>
