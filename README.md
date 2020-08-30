@@ -2,7 +2,7 @@
 
 
 
-<p align="right">
+
   
 در این مثال از دوره  
 <a href="https://faranesh.com/programming/19225-complete-tutorial-on-working-with-realm-database-in-android" >
@@ -18,17 +18,16 @@
   </table>
   
   <br>
-    <br>
-      <br>
-      
+   <br>
+   <br>
+     
 # سایر دوره های آموزشی 
  
-      <a href="https://faranesh.com/author/samansepahvand">https://faranesh.com/author/samansepahvand</A>
+ <a href="https://faranesh.com/author/samansepahvand">https://faranesh.com/author/samansepahvand</A>
        
-    <br> 
- سایت من
+   <br> 
  
-    <a href="http://samansepahvand.ir/">http://samansepahvand.ir/</A>
+ <a href="http://samansepahvand.ir/">http://samansepahvand.ir/</A>
  
 
-</p>
+
